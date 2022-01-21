@@ -10,7 +10,7 @@
 #define ECHO_PIN 10
 #define SERVO_PIN 9
 
-#define OPEN 0          // OPEN
+#define OPEN 0         // OPEN
 #define CLOSE 180      // CLOSE
 
 #define MAX_DIST 200
