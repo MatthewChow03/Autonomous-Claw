@@ -8,7 +8,7 @@ This is the test and final code for the APSC 101 autonomous claw project. The ob
 
 [`timeout_algorithm.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/timeout_algorithm.ino) implementation of a timeout to reopen and close the claw when an object is unsuccessfully picked up
 
-[`timeout_algorithm.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/timeout_algorithm_v2.ino) fixed issue where timeout v1 would get stuck in the green phase, changed do while to a while loop
+[`timeout_algorithm_v2.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/timeout_algorithm_v2.ino) fixed issue where timeout v1 would get stuck in the green phase, changed do while to a while loop
 
 
 ## Video Demos
