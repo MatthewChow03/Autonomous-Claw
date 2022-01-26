@@ -6,6 +6,8 @@ This is the test and final code for the APSC 101 autonomous claw project. The ob
 
 [`distance_algorithm_v1.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/distance_algorithm_v1.ino) a program that opens and closes a claw with LED indicators of the algorithm's state
 
+[`timeout_algorithm.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/timeout_algorithm.ino) implementation of a timeout to reopen and close the claw when an object is unsuccessfully picked up
+
 
 ## Video Demos
 <!---
