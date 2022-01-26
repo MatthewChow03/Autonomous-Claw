@@ -72,7 +72,7 @@ void loop()
       startMillis = currentMillis; // start the timeout clock right after the claw has attempted to pick up an object
 
       // Wait for above barrier height to be reached
-      while(dist < 50)
+      while(dist < 51)
       {
         dist = sonar.ping_cm();
         delay(100); // ping delay
@@ -97,11 +97,11 @@ void loop()
         digitalWrite(YELLOW_PIN, 1);
 
         // Wait for drop off side to be reached
-        do
+        while (dist > 14)
         {
           dist = sonar.ping_cm();
           delay(100); // ping delay
-        } while (dist > 15);
+        }
 
         if (dist < 15)
         {
