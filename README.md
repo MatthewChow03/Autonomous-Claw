@@ -27,6 +27,9 @@ Running the [`timeout_algorithm_v2.ino`](https://github.com/MatthewChow03/Autono
 
 https://user-images.githubusercontent.com/74833839/151141633-180c00d1-04fc-4373-be09-1d7a417e316b.mp4
 
+Using [`simple_algorithm.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/simple_algorithm.ino) this video demonstrates the program flashed to a prototype claw.
+
+https://user-images.githubusercontent.com/74833839/151746374-dcb52fc9-937d-4920-8e40-bcdd2537f0e4.mp4
 
 <!---
 </details>
