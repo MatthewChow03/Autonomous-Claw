@@ -1,5 +1,19 @@
 # Autonomous Claw
-This is the test and final code for the APSC 101 autonomous claw project. The objectives of the claw are to pick up a variety of items and transport them accurately and efficiently.
+This repo conatins all the iterations of my code for the APSC 101 autonomous claw project. The objectives of the claw are to pick up a variety of items and transport them accurately and efficiently.
+
+<details>
+  
+<summary> Claw Demo Video </summary>
+
+<p></p>
+  
+ In this video we are practicing for the claw compeition, coordinating our alignment, movement, retrieval, and dropoff technique. The claw is running the [`simple_algorithm.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/simple_algorithm.ino) in this video.
+  
+  
+https://user-images.githubusercontent.com/74833839/152657674-ba3474da-fb3f-4d5e-8c4c-b9ceb1bfd409.mp4
+
+  
+</details>
 
 ## Programs
 [`servo_sonar.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/servo_sonar.ino) a program to position a servo's angle based on sonar height
@@ -13,7 +27,7 @@ This is the test and final code for the APSC 101 autonomous claw project. The ob
 [`simple_algorithm.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/simple_algorithm.ino) a reliable program that switches between opening and closing whenever the claw is close to the ground
 
 
-## Video Demos
+## Code Iteration Demos
 <!---
 <details>
 <summary> Video Demo </summary>
