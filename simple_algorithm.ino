@@ -52,11 +52,11 @@ void loop() {
     dist = 180;
   }
 
-  if (dist < 15)
+  if (dist < 30)
   {
     digitalWrite(RED, 1);
     digitalWrite(GREEN, 0);
-    delay(1500);
+    delay(2000);
     if (last_position == 0)
     {
       last_position = 180;
