@@ -1,9 +1,8 @@
 # Autonomous Claw
 This repo conatins all the iterations of my code for the APSC 101 autonomous claw project. The objectives of the claw are to pick up a variety of items and transport them accurately and efficiently.
 
-<details>
   
-<summary> Claw Demo Video </summary>
+## Claw Demo Video
 
 <p></p>
   
@@ -12,8 +11,6 @@ This repo conatins all the iterations of my code for the APSC 101 autonomous cla
   
 https://user-images.githubusercontent.com/74833839/152657674-ba3474da-fb3f-4d5e-8c4c-b9ceb1bfd409.mp4
 
-  
-</details>
 
 ## Programs
 [`servo_sonar.ino`](https://github.com/MatthewChow03/Autonomous-Claw/blob/main/servo_sonar.ino) a program to position a servo's angle based on sonar height
